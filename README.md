@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ocram95
 - 👀 I’m interested in Network Security, Steganography and Covert Channels
-- 🌱 I’m currently learning novel detection mechanisms to detect stegomalware within [SIMARGL][https://simargl.eu/] European Project
+- 🌱 I’m currently learning novel detection mechanisms to detect stegomalware within [SIMARGL](https://simargl.eu/) European Project
 - 📫 How to reach me: marco.zuppelli@ge.imati.cnr.it
 
 <!---
